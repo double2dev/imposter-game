@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-07-17",
+  "project_url": "https://impostergamewords.com",
+  "categories": {
+    "standard": [
+      {
+        "civilian": "Airport",
+        "imposter": "Train Station",
+        "difficulty": "medium",
+        "tags": ["travel", "places"]
+      },
+      {
+        "civilian": "Coffee",
+        "imposter": "Tea",
+        "difficulty": "easy",
+        "tags": ["drinks", "food"]
+      },
+      {
+        "civilian": "Museum",
+        "imposter": "Art Gallery",
+        "difficulty": "hard",
+        "tags": ["places", "culture"]
+      }
+    ],
+    "tech": [
+      {
+        "civilian": "Laptop",
+        "imposter": "Tablet",
+        "difficulty": "medium",
+        "tags": ["gadgets", "office"]
+      },
+      {
+        "civilian": "Software Bug",
+        "imposter": "Computer Virus",
+        "difficulty": "medium",
+        "tags": ["programming", "cybersecurity"]
+      }
+    ],
+    "kids": [
+      {
+        "civilian": "Dog",
+        "imposter": "Cat",
+        "difficulty": "easy",
+        "tags": ["animals", "pets"]
+      },
+      {
+        "civilian": "Apple",
+        "imposter": "Orange",
+        "difficulty": "easy",
+        "tags": ["food", "fruit"]
+      }
+    ]
+  }
+}
